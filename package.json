@@ -77,5 +77,5 @@
     "tidy": "prettier-eslint --write \"src/**/*.{js,jsx}\""
   },
   "type": "commonjs",
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
